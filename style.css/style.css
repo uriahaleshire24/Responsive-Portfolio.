@@ -12,11 +12,6 @@ body{
     
 }
 
-/* p{
-    color: black;
-    margin-left: 20px;
-    margin-right: 20px
-} */
 header{
     background: white;
     height: 110px;
@@ -153,60 +148,21 @@ footer{
    font-size: 10px;
 }
 
-/* #first {
-    width: 100%;
-    float: left;
-    padding: 20px;
-    margin-right: 20px;
-    border: 1px solid black;
+.icons {
+    float: left
+}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
+.icons {width: 43%;}
     
-}
-
-#second{
-    width: 100%;
-  float: left;
-  padding: 20px;
-  margin-left: 20px;
-  border: 1px solid black;
-}
-#third{
-    width: 100%;
-    float: left;
-    padding: 20px;
-    margin-right: 20px;
-    border: 1px solid black;
-}
-#forth{
-    width: 100%;
-    float: left;
-    padding: 20px;
-    margin-left: 20px;
-    border: 1px solid black;
-}
-#fifth{
-    width: 100%;
-    float: left;
-    padding: 20px;
-    margin-top: 20px;
-    border: 1px solid black;
-} */
-/* @media screen and (max-width: 550px) {
-    body {
-        width: 100%;
-    }
-    .container2 {
-        width: 100vw;
-    }
-    #main-bio {
-        width: 90vw; */
-    }
-    .icons {
-        width: 90vw;
-        max-width: 320px;
-        height: 90vw;
-        max-height: 320px;
-    ;
-    }
     
    
-}
